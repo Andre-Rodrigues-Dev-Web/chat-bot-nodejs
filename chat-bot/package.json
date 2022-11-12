@@ -1,0 +1,22 @@
+{
+  "name": "chat-bot",
+  "version": "1.0.0",
+  "description": "Chatbot para whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Andre Laurentino Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^4.3.3"
+  }
+}
